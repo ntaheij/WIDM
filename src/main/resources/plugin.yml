@@ -1,0 +1,16 @@
+name: WIDM
+main: nl.Ingmar.WIDM.Main
+version: 2.7
+authors: [Ingmar14000, NTaheij]
+
+commands:
+  widm:
+    description: WIDM command
+  kleur:
+    description: Kleur command
+    aliases: [colors, team, teams]
+  map:
+    description: Map command
+    aliases: [map]
+  start:
+    description: Start de game
